@@ -25,7 +25,7 @@ SECRET_KEY = 'w0p!vlmvs!on6s$31716k+c#t9^%&*y_hwj_bp10$j37)8f=_2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'DraftDrifter.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'janoscsampai.pythonanywhere.com']
 
 
 # Application definition
